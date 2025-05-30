@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function WelcomeScreen() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>Welcome</Text>
+      <Text style={styles.text}>Welcome here</Text>
       
     </View>
   );
